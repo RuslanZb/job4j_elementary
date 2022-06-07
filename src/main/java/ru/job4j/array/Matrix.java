@@ -1,9 +1,7 @@
 package ru.job4j.array;
 
 import java.io.FileOutputStream;
-import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
-import java.util.stream.Collectors;
 
 public class Matrix {
     public static int[][] multiple(int size) {
